@@ -1,9 +1,6 @@
 package cn.edu.hit.action;
 
-import cn.edu.hit.dao.UserDao;
-import cn.edu.hit.dao.impl.UserDaoImpl;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.*;
+
 
 import java.io.IOException;
 import java.io.PrintWriter;
