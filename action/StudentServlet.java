@@ -1,9 +1,5 @@
 package cn.edu.hit.action;
 
-import cn.edu.hit.dao.StudentDao;
-import cn.edu.hit.dao.impl.StudentDaoImpl;
-import cn.edu.hit.entity.Student;
-import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
